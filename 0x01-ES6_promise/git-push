@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
 git add .
+echo "adding files..."
 git commit -m"new promise project file added"
+echo "committing..."
 git push origin main
+echo "pushed.."
