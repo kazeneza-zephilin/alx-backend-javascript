@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+git add .
+git commit -m"adding Ts file"
+git push origin main
